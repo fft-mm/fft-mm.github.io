@@ -35256,7 +35256,7 @@ a5(){var s=$.ac()
 return new A.MM(new A.b9(null,t.am),new A.fS(B.bt,s),new A.fS(B.bt,s))}}
 A.MM.prototype={
 K(a){var s=this,r=null,q=t.p
-return A.qo(A.tP(A.b7("Login Page",r,r,r,r,r,r)),new A.bO(B.im,A.aiW(A.fx(A.b([A.o4(s.e,A.kB(r,new A.fe(4,B.cd,B.eK),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Type your username here",r,r,r,r,r,r,r,r,"Username",!0,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,new A.aco()),A.cI(r,20,r),A.o4(s.f,A.kB(r,new A.fe(4,B.cd,B.eK),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Type your password",r,r,r,r,r,r,r,r,"Password",!0,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,new A.acp()),A.cI(r,30,r),A.I9(A.b([A.Fs(A.b7("Login",r,r,r,r,r,r),new A.acq(s,a),r),A.Fs(A.b7("Register",r,r,r,r,r,r),new A.acr(a),r)],q),B.ag,B.iW,B.aZ)],q),B.ag,B.d0,B.aZ),s.d),r))}}
+return A.qo(A.tP(A.b7("Sport booking Login Page",r,r,r,r,r,r)),new A.bO(B.im,A.aiW(A.fx(A.b([A.o4(s.e,A.kB(r,new A.fe(4,B.cd,B.eK),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Type your username here",r,r,r,r,r,r,r,r,"Username",!0,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,new A.aco()),A.cI(r,20,r),A.o4(s.f,A.kB(r,new A.fe(4,B.cd,B.eK),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Type your password",r,r,r,r,r,r,r,r,"Password",!0,r,r,r,r,r,r,r,r,r,r,r,r,r),!0,new A.acp()),A.cI(r,30,r),A.I9(A.b([A.Fs(A.b7("Login",r,r,r,r,r,r),new A.acq(s,a),r),A.Fs(A.b7("Register",r,r,r,r,r,r),new A.acr(a),r)],q),B.ag,B.iW,B.aZ)],q),B.ag,B.d0,B.aZ),s.d),r))}}
 A.aco.prototype={
 $1(a){if(a.length===0)return"Please enter your username"
 return null},
